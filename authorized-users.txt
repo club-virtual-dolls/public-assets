@@ -1,2 +1,4 @@
 name;roles
-essiebes;staff,dancer
+essiebes;staff
+NEP;staff,photographer
+Uploader;dancer
