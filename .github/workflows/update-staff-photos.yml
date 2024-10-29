@@ -1,9 +1,9 @@
-name: Update Assets
+name: Update Staff Photos
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '9 */12 * * *'
+    - cron: '35 4 * * 6'
 
 jobs:
   download-and-commit:
@@ -21,18 +21,9 @@ jobs:
           cache: 'npm'
       
       - run: npm ci
-
-      - name: Set up jq
-        run: sudo apt-get install -y jq
-
-      - name: Download latest calendar
-        run: bash fetch-latest-calendar.sh
-
-      - name: Download latest group photos
-        run: bash fetch-latest-group-photos.sh
-
-      - name: Download authorized users list
-        run: node fetch-authorized-users.js
+    
+      - name: Download staff photos
+        run: node fetch-staff-photos.js
         env: 
           API_TOKEN: ${{ secrets.API_TOKEN }}
 
