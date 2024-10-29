@@ -32,15 +32,15 @@ const staffDoesNotHavePlaceHolderPortret = (staff) => {
             throw new Error(`Failed to fetch image: ${image.statusText}`);
         }
 
-        const destination = path.resolve('./staff_photos', `${staff.id}.webp`);
+        const destination = path.resolve('./staff_photos', `${staff.id}.png`);
         const fileStream = fs.createWriteStream(destination, { flags: 'w' });
         await finished(Readable.fromWeb(image.body).pipe(fileStream));
-        console.log(`Downloaded image for ${staff.name} to ./staff_photos/${staff.id}.webp`);
+        console.log(`Downloaded image for ${staff.name} to ./staff_photos/${staff.id}.png`);
     }
 
     const csvList = staffs
         .filter(staffDoesNotHavePlaceHolderPortret)
-        .map(s => `${PUBLIC_BASE_URL}/staff_photos/${s.id}.webp`);
+        .map(s => `${PUBLIC_BASE_URL}/staff_photos/${s.id}.png`);
     fs.writeFileSync(path.resolve('./staff_photos', `index.csv`), `${csvList.join('\n')}`);
     console.log('Wrote staff photos index to ./staff_photos/index.csv');
 })();

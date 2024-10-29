@@ -19,7 +19,7 @@ echo "Calendar picture URL (1024x1024): $photo_url_1024"
 echo "Calendar picture URL (2048x2048): $photo_url_2048"
 
 # Download the calendar picture and save it as latest_calendar.png
-curl -s $photo_url_1024 -o latest_calendar_x1024.webp
-curl -s $photo_url_2048 -o latest_calendar_x2048.webp
+curl -s $photo_url_1024 -o latest_calendar_x1024.png
+curl -s $photo_url_2048 -o latest_calendar_x2048.png
 
 echo "Downloaded the latest calendar picture as latest_calendar_x1024 and latest_calendar_x2048"

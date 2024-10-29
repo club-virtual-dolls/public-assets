@@ -19,7 +19,7 @@ echo "Group photo URL (1024x1024): $photo_url_1024"
 echo "Group photo URL (2048x2048): $photo_url_2048"
 
 # Download the group photo and save it as latest_group_photo.png
-curl -s $photo_url_1024 -o latest_group_photo_x1024.webp
-curl -s $photo_url_2048 -o latest_group_photo_x2048.webp
+curl -s $photo_url_1024 -o latest_group_photo_x1024.png
+curl -s $photo_url_2048 -o latest_group_photo_x2048.png
 
 echo "Downloaded the latest group photo as latest_group_photo_x1024 and latest_group_photo_x2048"
