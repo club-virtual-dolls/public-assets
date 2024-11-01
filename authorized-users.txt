@@ -1,6 +1,6 @@
 name;roles
 Amboolents;photographer
-Zenapena;dancer
+zenapena;dancer
 zanderino_;security
 ShakurWolf;dancer
 Uploader;dance_captain,dancer
@@ -9,3 +9,4 @@ Uploader;dance_captain,dancer
 essiebes;staff
 Giggletank;dj
 Jair iko;dancer
+ClumsyBoi;host
