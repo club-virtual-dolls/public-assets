@@ -1,6 +1,11 @@
 name;roles
+Amboolents;photographer
+Zenapena;dancer
+zanderino_;security
+ShakurWolf;dancer
 Uploader;dance_captain,dancer
 ˞NEP;staff,photographer
 ˞˞nyx;staff,dancer
 essiebes;staff
-ShakurWolf;dancer
+Giggletank;dj
+Jair iko;dancer
