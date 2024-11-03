@@ -1,10 +1,10 @@
 name;roles
-Amboolents;photographer
 zenapena;dancer
+sʏɴᴛʜ;host
 ˞NEP;staff,photographer
 zanderino_;security
 ˞˞nyx;staff,dancer
-ShakurWolf;dancer
+CloudGazerr;dancer
 Uploader;dance_captain,dancer
 jacie_;host
 Giggletank;dj
