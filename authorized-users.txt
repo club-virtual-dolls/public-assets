@@ -1,5 +1,6 @@
 name;roles
 zenapena;dancer
+Kuru_fluffbunny;dancer,photographer
 Amboolents;photographer
 sʏɴᴛʜ;host
 ˞NEP;staff,photographer
