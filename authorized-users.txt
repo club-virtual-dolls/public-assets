@@ -2,6 +2,7 @@ name;roles
 zenapena;dancer
 Kuru_fluffbunny;dancer,photographer
 Amboolents;photographer
+彡Ｓｏｕｌ彡;dancer
 sʏɴᴛʜ;host
 ˞NEP;staff,photographer
 zanderino_;security
