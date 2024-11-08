@@ -13,4 +13,5 @@ essiebes;staff
 jacie_;host
 Giggletank;dj
 Jair iko;dancer
+Dantanian;photographer
 ClumsyBoi;host
