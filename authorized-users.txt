@@ -2,6 +2,7 @@ name;roles
 zenapena;dancer
 Kuru_fluffbunny;dancer,photographer
 Amboolents;photographer
+Jair iko;dancer
 彡Ｓｏｕｌ彡;dancer
 sʏɴᴛʜ;host
 ˞NEP;staff,photographer
@@ -12,7 +13,6 @@ Uploader;dance_captain,dancer
 essiebes;staff
 jacie_;host
 Giggletank;dj
-Jair iko;dancer
 Dantanian;photographer
 ClumsyBoi;host
 ValeaSylph;dancer
