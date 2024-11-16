@@ -15,6 +15,6 @@ essiebes;staff
 jacie_;host
 Giggletank;dj
 Dantanian;photographer
-ClumsyBoi;host
 ValeaSylph;dancer
+ClumsyBoi;host,photographer
 Strugglerr;security
