@@ -1,6 +1,7 @@
 name;roles
 zenapena;dancer
 Kuru_fluffbunny;dancer,photographer
+yjen;dancer
 Amboolents;photographer
 xXHaruHanaXx;dancer
 Jair iko;dancer
