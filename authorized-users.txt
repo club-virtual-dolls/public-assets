@@ -1,11 +1,10 @@
 name;roles
-zenapena;dancer
-Kuru_fluffbunny;dancer,photographer
 yjen;dancer
-Amboolents;photographer
 xXHaruHanaXx;dancer
+Kuru_fluffbunny;dancer,photographer
+Amboolents;photographer
+zenapena;dancer
 Jair iko;dancer
-MakaXHaru;dancer
 sʏɴᴛʜ;host
 ˞NEP;staff,photographer
 zanderino_;security
@@ -15,6 +14,7 @@ Uploader;dance_captain,dancer
 essiebes;staff
 jacie_;host
 Giggletank;dj
+MakaXHaru;dancer
 Dantanian;photographer
 ValeaSylph;dancer
 ClumsyBoi;host,photographer
