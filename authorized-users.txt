@@ -6,6 +6,7 @@ Amboolents;photographer
 zenapena;dancer
 Dancy Sparkles;dancer
 W_Marius;dancer
+Biscuitp;host
 Jair iko;dancer
 ShakurWolf;dancer
 ˞˞nyx;staff,dancer
@@ -14,7 +15,8 @@ sʏɴᴛʜ;host
 ˞NEP;staff,photographer
 zanderino_;security
 Uploader;dance_captain,dancer
-essiebes;staff
+essiebes;staff,dj,photographer
+~HanaTheNoodle~;host
 MakaXHaru;dancer
 jacie_;host
 Giggletank;dj
