@@ -14,10 +14,10 @@ Andistime;dancer
 sʏɴᴛʜ;host
 ˞NEP;staff,photographer
 zanderino_;security
-Uploader;dance_captain,dancer
 essiebes;staff,dj,photographer
 ~HanaTheNoodle~;host
 IC0N_;dancer
+Uploader;dance_captain,dancer,dj
 MakaXHaru;dancer
 jacie_;host
 Giggletank;dj
