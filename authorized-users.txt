@@ -8,7 +8,6 @@ Dancy Sparkles;dancer
 W_Marius;dancer
 Biscuitp;host
 ShakurWolf;dancer
-˞˞nyx;staff,dancer
 Andistime;dancer
 sʏɴᴛʜ;host
 ˞NEP;staff,photographer
@@ -21,6 +20,7 @@ jacie_;host
 Giggletank;dj
 Dantanian;photographer
 xwontroll;dancer,security
+˞˞nyx;staff,dancer,dj
 ValeaSylph;dancer
 ᴋᴜʀᴏᴏღ;dancer,security
 ClumsyBoi;photographer
