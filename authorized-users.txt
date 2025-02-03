@@ -18,7 +18,6 @@ IC0N_;dancer
 Uploader;dance_captain,dancer,dj
 MakaXHaru;dancer
 jacie_;host
-Giggletank;dj
 Dantanian;photographer
 xwontroll;dancer,security
 ˞˞nyx;staff,dancer,dj
