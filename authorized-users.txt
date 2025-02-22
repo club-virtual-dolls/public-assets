@@ -1,6 +1,5 @@
 name;roles
 Luki44;security
-yjen;dancer
 xXHaruHanaXx;dancer
 Kuru_fluffbunny;dancer,photographer
 Amboolents;photographer
@@ -9,21 +8,18 @@ Dancy Sparkles;dancer
 W_Marius;dancer
 M̶̶E̶̶R̶̶K̶̶H̶;dancer
 Andistime;dancer
-sʏɴᴛʜ;host
 zanderino_;security
 IC0N_;dance_captain,dancer
 essiebes;staff,dj,photographer
-Uploader;dance_captain,dancer,dj
 MakaXHaru;dancer
+Uploader;dancer,dj
 jacie_;host
 xwontroll;dancer,security
 ˞˞nyx;staff,dancer,dj
 ValeaSylph;dancer
 ᴋᴜʀᴏᴏღ;dancer,security
 ClumsyBoi;photographer
-chels≺3;dancer
 Strugglerr;security
 Senpai_Over;dancer
-Synex ツ;dancer
 Asoƙići;photographer
 Lollisan;dancer
