@@ -2,7 +2,6 @@ name;roles
 Luki44;security
 xXHaruHanaXx;dancer
 Kuru_fluffbunny;dancer,photographer
-Amboolents;photographer
 zenapena;dancer
 W_Marius;dancer
 M̶̶E̶̶R̶̶K̶̶H̶;dancer
